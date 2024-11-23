@@ -12,7 +12,7 @@
 
 ## Projects .° ༘🎧⋆🖇₊˚ෆ
 
--Currently, I want to improve in Kotlin so that the project takes shape more quickly. https://github.com/StudyCombinaded/StudyCombinaded
+-Currently, I want to improve in flutter so that the project takes shape more quickly. https://github.com/StudyCombinaded/StudyCombinaded
 
 
 ## Fun facts ୧⍤⃝💐
