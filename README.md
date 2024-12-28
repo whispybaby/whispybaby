@@ -52,7 +52,7 @@ Soy una persona apasionada por el arte, y mi objetivo es combinar mis habilidade
 
 ## Proyectos .° ༘🎧⋆🖇₊˚ෆ
 
-Actualmente, estoy trabajando en mejorar mis habilidades con Flutter para que mi proyecto tome forma de manera más rápida. Puedes revisarlo aquí: [Edumetrica](https://github.com/whispybaby/Edumetrica).
+Actualmente, estoy trabajando en mejorar mis habilidades con Flutter para que mi proyecto tome forma de manera más rápida.
 
 ## Datos curiosos ୧⍤⃝💐
 
