@@ -4,6 +4,10 @@
 
 Soy una persona apasionada por el arte, y mi objetivo es combinar mis habilidades artísticas con el desarrollo de software.
 
+## Experiencia adicional 🧮✨
+- Análisis de datos estadísticos utilizando R y Excel.  
+- Conocimientos en Power BI y KNIME para la creación de dashboards e implementación de flujos de trabajo analíticos.
+
 <h3 align="left">Tengo conocimientos en:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -50,8 +54,7 @@ Soy una persona apasionada por el arte, y mi objetivo es combinar mis habilidade
   </a> 
 </p>
 
-## Proyectos .° ༘🎧⋆🖇₊˚ෆ
-
+## Proyectos personales .° ༘🎧⋆🖇₊˚ෆ
 Actualmente, estoy trabajando en mejorar mis habilidades con Flutter para que mi proyecto tome forma de manera más rápida.
 
 ## Datos curiosos ୧⍤⃝💐
