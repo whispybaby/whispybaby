@@ -2,11 +2,18 @@
 
 ## Sobre mí ✧˖°🌷📎⋆ ˚｡⋆୨୧˚
 
-Soy una persona apasionada por el arte, y mi objetivo es combinar mis habilidades artísticas con el desarrollo de software.
+Ingeniera en Informática con experiencia en desarrollo de software, gestión de procesos, administración de inventarios e innovación tecnológica. Especializada en Full Stack, análisis de datos y optimización de recursos, con vocación por la educación, innovación y logística.
 
-## Experiencia adicional 🧮✨
-- Análisis de datos estadísticos utilizando R y Excel.  
-- Conocimientos en Power BI y KNIME para la creación de dashboards e implementación de flujos de trabajo analíticos.
+##  Especialidades🧮✨
+✅ Gestión de procesos e inventarios para optimizar operaciones y mejorar la eficiencia organizacional.
+✅ Desarrollo de software y soluciones tecnológicas aplicadas a proyectos de innovación y emprendimiento.
+✅ Educación y transferencia tecnológica, Siendo mentora  para  fundaciones como María Ayuda y Fundación Portas.
+✅ Análisis de datos y optimización de recursos para mejorar la toma de decisiones estratégicas.
+✅ Liderazgo y trabajo en equipo, promoviendo la colaboración y el cumplimiento de objetivos en entornos dinámicos.
+
+🔹 He trabajado en colaboración con universidades, empresas e instituciones públicas, diseñando herramientas digitales y metodologías para mejorar la gestión y la logística. He participado en desafíos como Go Innova 2024 y Desafío I+E, aplicando tecnología para resolver problemáticas reales.
+
+🚀 Mi objetivo es seguir generando impacto a través de la tecnología, la logística y la educación, contribuyendo al desarrollo organizacional y social.
 
 <h3 align="left">Tengo conocimientos en:</h3>
 <p align="left"> 
@@ -54,13 +61,8 @@ Soy una persona apasionada por el arte, y mi objetivo es combinar mis habilidade
   </a> 
 </p>
 
-## Proyectos personales .° ༘🎧⋆🖇₊˚ෆ
-Actualmente, estoy trabajando en mejorar mis habilidades con Flutter para que mi proyecto tome forma de manera más rápida.
 
-## Datos curiosos ୧⍤⃝💐
 
-- Me gusta escuchar música para relajarme.  
-- Siempre intento sacar el máximo provecho de mis habilidades y pasiones en todo lo que hago.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whispybaby&show_icons=true&locale=es&layout=compact" alt="whispybaby" /></p>
 
